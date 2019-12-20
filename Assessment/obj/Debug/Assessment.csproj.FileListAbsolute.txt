@@ -1,0 +1,10 @@
+D:\Robby\Assessment\Assessment\bin\Debug\unsorted-name-list.txt
+D:\Robby\Assessment\Assessment\bin\Debug\Assessment.exe.config
+D:\Robby\Assessment\Assessment\bin\Debug\Assessment.exe
+D:\Robby\Assessment\Assessment\bin\Debug\Assessment.pdb
+D:\Robby\Assessment\Assessment\bin\Debug\Microsoft.Extensions.CommandLineUtils.dll
+D:\Robby\Assessment\Assessment\bin\Debug\Microsoft.Extensions.CommandLineUtils.xml
+D:\Robby\Assessment\Assessment\obj\Debug\Assessment.csproj.CoreCompileInputs.cache
+D:\Robby\Assessment\Assessment\obj\Debug\Assessment.csproj.CopyComplete
+D:\Robby\Assessment\Assessment\obj\Debug\Assessment.exe
+D:\Robby\Assessment\Assessment\obj\Debug\Assessment.pdb
